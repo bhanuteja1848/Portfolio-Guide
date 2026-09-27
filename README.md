@@ -12,12 +12,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-# Data Analytics
-
-| Project Link | Area | Project Description |
-| :--- | :--- | :--- |
-| 💼 [Data Job Market Analysis](https://github.com/bhanuteja1848/Data_Job_Market_Analysis_Project) | Data analysis, SQL, job-market analytics | An analysis of data-related job postings from 2023–2025, exploring demand across Data Analyst, Data Engineer, Data Scientist, and senior-level roles. The project investigates salary expectations, in-demand technical skills, remote versus on-site work, and degree requirements to understand how the data job market is evolving. |
-| 👥 [Customer Cohort Analysis](https://github.com/bhanuteja1848/Cohort_Analysis_SQL) | Customer analytics, cohort analysis, retention | An e-commerce customer analytics project focused on customer segmentation, cohort behaviour, retention, revenue, and lifetime value. The analysis uses SQL to understand customer value and identify patterns in revenue generation and customer retention. |
 
 ---
 
@@ -34,6 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 | :--- | :--- | :--- |
+| 🚗 [Insurance Analytics Dashboard](https://github.com/bhanuteja1848/Insurance-Analysis-Dashboard) | An end-to-end Power BI project analyzing vehicle insurance policy trends, customer demographics, claims distribution, loss ratios, and premium revenues across key segmentations. | [View Project](https://github.com/bhanuteja1848/Insurance-Analysis-Dashboard) |
 | 📊 [Data Jobs Power BI Project](https://github.com/bhanuteja1848/Data-Jobs-Power-BI-Project) | A Power BI project focused on the data-job market. The repository contains the project files for analysing and presenting data-job information through Power BI. | [Project](https://github.com/bhanuteja1848/Data-Jobs-Power-BI-Project) |
 
 ---
