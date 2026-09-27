@@ -3,8 +3,6 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data analytics field, with a focus on SQL, Python, Power BI, customer analytics, and business insights.
 
 ## 📚 Table of Contents
-
-- [Data Analytics](#data-analytics)
 - [SQL](#sql)
 - [Power BI](#power-bi)
 - [Tools & Skills](#tools--skills)
@@ -12,8 +10,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ---
 
-
----
 
 # SQL
 
